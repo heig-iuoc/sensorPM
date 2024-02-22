@@ -1,0 +1,10 @@
+Liens de référence:
+https://sensirion.com/products/catalog/SEK-SEN5x
+
+Logiciel pour gérer les capteurs SEK sur un ordinateur: https://sensirion.com/products/sensor-evaluation/control-center/
+
+Drivers pour Arduino : https://sensirion.com/resource/software/arduino/sen5x
+Snippets Arduino : https://github.com/Sensirion/arduino-snippets
+Drivers embarquées : https://sensirion.com/resource/software/embedded/sen5x
+Raspberry Pi drivers : https://sensirion.com/resource/software/raspberry-pi/sen5x
+Raspberry Pi snippets : https://github.com/Sensirion/raspberrypi-snippets
