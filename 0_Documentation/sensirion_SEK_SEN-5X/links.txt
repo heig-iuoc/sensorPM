@@ -1,7 +1,12 @@
 Liens de référence:
 https://sensirion.com/products/catalog/SEK-SEN5x
+https://sensirion.com/media/documents/6791EFA0/62A1F68F/Sensirion_Datasheet_Environmental_Node_SEN5x.pdf
 
 Logiciel pour gérer les capteurs SEK sur un ordinateur: https://sensirion.com/products/sensor-evaluation/control-center/
+
+Développement :
+https://developer.sensirion.com/products-support/sen5x-environmental-sensor-node
+
 
 Drivers pour Arduino : https://sensirion.com/resource/software/arduino/sen5x
 Snippets Arduino : https://github.com/Sensirion/arduino-snippets
