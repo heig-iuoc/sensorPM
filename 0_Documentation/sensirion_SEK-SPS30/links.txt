@@ -1,8 +1,0 @@
-Liens de référence:
-https://sensirion.com/products/catalog/SPS30/
-
-
-Logiciel pour gérer les capteurs SEK sur un ordinateur: https://sensirion.com/products/sensor-evaluation/control-center/
-
-Drivers pour Arduino : https://github.com/Sensirion/arduino-sps
-Drivers embarquées : https://github.com/Sensirion/embedded-sps
